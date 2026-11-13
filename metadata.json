@@ -1,0 +1,6 @@
+{
+  "name": "RelayDesk — WhatsApp AI Automation",
+  "description": "Smart AI-powered WhatsApp messaging assistant for automated customer support, lead generation, appointment booking, order management, and human handoff.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
